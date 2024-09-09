@@ -5,6 +5,7 @@ from colorama import Fore, Style, init
 import pyfiglet
 from tqdm import tqdm
 from googletrans import Translator  # Assuming you are using googletrans for translation
+import re  # Add this import to use regular expressions
 
 # Initialize colorama
 init(autoreset=True)
