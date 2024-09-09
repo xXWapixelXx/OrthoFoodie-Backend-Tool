@@ -3,10 +3,7 @@
 
 ### **requirements.txt**:
 
-The `requirements.txt` file should contain the dependencies for your project. Here’s what you should include:
-
-```txt
 colorama
 pyfiglet
 tqdm
-googletrans==4.0.0-rc1  # If you use googletrans
+googletrans==4.0.0-rc1  
