@@ -12,6 +12,15 @@ This script features a visually enhanced interface with ASCII art, progress bars
 - **Visual Enhancements**: ASCII art, colorful progress messages, and a loading bar to track progress.
 - **User-Friendly**: If `Translate.txt` is missing, the script automatically creates it and informs the user.
 
+## How to Use the Executable
+
+For users who don't want to set up Python or dependencies, simply download the `.exe` file from the [Releases](https://github.com/OrthoFoodie-Backend-Text-Translator/releases) section:
+
+1. **Download** the `.exe` file from the latest release.
+2. **Place your `Translate.txt`** file in the same directory as the `.exe`.
+3. **Double-click** the `.exe` to run the tool.
+4. Follow the prompts to translate your file.
+
 ## How It Works
 
 1. The script starts by displaying a welcome message with the **OrthoFoodie** ASCII logo.
