@@ -11,7 +11,7 @@ This script features a visually enhanced interface with ASCII art, progress bars
 - **Visual Enhancements**: ASCII art, colorful progress messages, and a loading bar to track progress.
 - **Smart Formatting**: Automatically wraps each line from `Translate.txt` in a JSON-style key-value format.
 - **Dutch Translation**: Translates the backend text into Dutch (NL).
-- **Error Handling**: Informs the user if `Translate.txt` is missing, prompting them to create the file and rerun the script.
+- **Error Handling**: Informs the user if `Translate.txt` is missing, prompting them to rerun the script.
 
 ## How It Works
 
