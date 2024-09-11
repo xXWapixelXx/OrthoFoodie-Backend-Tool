@@ -1,16 +1,12 @@
-# OrthoFoodie Backend Text Translator
+# OrthoFoodie Backend Tool
 
-OrthoFoodie Backend Text Translator is a Python command-line tool designed to format and translate backend text files into a language of your choice for easy integration into backend systems. It wraps each word or phrase in JSON-style key-value pairs, helping streamline the process of setting up translations and data formatting.
-
-This script features a visually enhanced interface with ASCII art, progress bars, and color-coded messages for a more engaging user experience.
+**OrthoFoodie Backend Tool** is a Python command-line application designed to help you format and translate backend text files or CSV files into various languages, including Dutch, French, Spanish, etc.
 
 ## Features
-
-- **Multi-Language Translation**: Select from predefined languages or enter a custom language code for translation.
-- **Error Handling**: Detects invalid language codes and defaults to Dutch (`nl`) if an invalid code is entered.
-- **Smart Formatting**: Automatically wraps each line from `Translate.txt` in a JSON-style key-value format.
-- **Visual Enhancements**: ASCII art, colorful progress messages, and a loading bar to track progress.
-- **User-Friendly**: If `Translate.txt` is missing, the script automatically creates it and informs the user.
+- **Translate CSV files**: Automatically formats and translates CSV data.
+- **Supports JSON export**: Converts CSV files into JSON format.
+- **Custom language selection**: Choose from a variety of languages or input your custom language code.
+- **Progress bars and retry mechanisms** for smooth translation handling.
 
 ## How to Use the Executable
 
